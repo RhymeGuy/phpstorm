@@ -1,33 +1,12 @@
 <code_scheme name="Default (1)">
-  <option name="OTHER_INDENT_OPTIONS">
-    <value>
-      <option name="INDENT_SIZE" value="4" />
-      <option name="CONTINUATION_INDENT_SIZE" value="8" />
-      <option name="TAB_SIZE" value="4" />
-      <option name="USE_TAB_CHARACTER" value="true" />
-      <option name="SMART_TABS" value="false" />
-      <option name="LABEL_INDENT_SIZE" value="0" />
-      <option name="LABEL_INDENT_ABSOLUTE" value="false" />
-      <option name="USE_RELATIVE_INDENTS" value="false" />
-    </value>
-  </option>
-  <option name="RIGHT_MARGIN" value="200" />
-  <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="true" />
-  <option name="HTML_ATTRIBUTE_WRAP" value="0" />
-  <option name="HTML_TEXT_WRAP" value="0" />
-  <option name="HTML_KEEP_LINE_BREAKS" value="false" />
-  <option name="HTML_KEEP_LINE_BREAKS_IN_TEXT" value="false" />
-  <option name="HTML_ALIGN_ATTRIBUTES" value="false" />
+  <option name="HTML_ALIGN_TEXT" value="true" />
   <CssCodeStyleSettings>
     <option name="HEX_COLOR_LOWER_CASE" value="true" />
-    <option name="HEX_COLOR_SHORT_FORMAT" value="true" />
   </CssCodeStyleSettings>
   <PHPCodeStyleSettings>
     <option name="ALIGN_KEY_VALUE_PAIRS" value="true" />
-    <option name="ALIGN_PHPDOC_COMMENTS" value="true" />
     <option name="ALIGN_ASSIGNMENTS" value="true" />
     <option name="PHPDOC_BLANK_LINES_AROUND_PARAMETERS" value="true" />
-    <option name="PHPDOC_WRAP_LONG_LINES" value="true" />
     <option name="LOWER_CASE_BOOLEAN_CONST" value="true" />
     <option name="LOWER_CASE_NULL_CONST" value="true" />
     <option name="BLANK_LINE_BEFORE_RETURN_STATEMENT" value="true" />
@@ -36,16 +15,8 @@
     <option name="SPACE_BEFORE_UNARY_NOT" value="true" />
     <option name="SPACE_AFTER_UNARY_NOT" value="true" />
   </PHPCodeStyleSettings>
-  <codeStyleSettings language="CSS">
-    <indentOptions>
-      <option name="USE_TAB_CHARACTER" value="true" />
-      <option name="KEEP_INDENTS_ON_EMPTY_LINES" value="true" />
-    </indentOptions>
-  </codeStyleSettings>
   <codeStyleSettings language="HTML">
-    <option name="WRAP_ON_TYPING" value="1" />
     <indentOptions>
-      <option name="USE_TAB_CHARACTER" value="true" />
       <option name="KEEP_INDENTS_ON_EMPTY_LINES" value="true" />
     </indentOptions>
   </codeStyleSettings>
@@ -85,14 +56,6 @@
     <indentOptions>
       <option name="USE_TAB_CHARACTER" value="true" />
       <option name="SMART_TABS" value="true" />
-      <option name="KEEP_INDENTS_ON_EMPTY_LINES" value="true" />
-    </indentOptions>
-  </codeStyleSettings>
-  <codeStyleSettings language="SCSS">
-    <indentOptions>
-      <option name="INDENT_SIZE" value="4" />
-      <option name="USE_TAB_CHARACTER" value="true" />
-      <option name="KEEP_INDENTS_ON_EMPTY_LINES" value="true" />
     </indentOptions>
   </codeStyleSettings>
 </code_scheme>
